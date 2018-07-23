@@ -1,10 +1,13 @@
 Format Mail 
 ===========
 
-Format Paragraph extension for PopClip.
+Format Mail extension for PopClip.
 
-Mainly intended use is to format paragraphs to be more readable in mails
-by reformatting it so no text goes beyond 79 characters.
+Intended use is to format paragraphs to be more readable in mails
+by reformatting it so no text goes beyond 79 characters - and without
+breaking up common text formatting like markdown or asciidoc.
+
+![Demo on how Format Mail works](demo.gif)
 
 It relies on [par](http://www.nicemice.net/par/) being installed.
 
