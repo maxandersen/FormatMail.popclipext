@@ -9,9 +9,17 @@ breaking up common text formatting like markdown or asciidoc.
 
 ![Demo on how Format Mail works](demo.gif)
 
-It relies on [par](http://www.nicemice.net/par/) being installed.
+Installation
+============
 
-If you do not have `par` installed you can do that by running `brew install par`.
+1) Have [PopClip](http://pilotmoon.com/popclip/) installed
+2) Have [par]((http://www.nicemice.net/par/)) installed (`brew install par`)
+2) Cl and open this repository
+
+```
+git clone https://github.com/maxandersen/FormatMail.popclipext
+open FormatMail.popclipext
+```
 
 Acknowledgments
 ===============
